@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2515" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/backgravatar.xml" value="0.1725" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/background_button.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/background_edittext.xml" value="0.1785" />
@@ -21,10 +22,12 @@
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_black_chevron_left_24.xml" value="0.1785" />
+        <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2515" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_logout.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/ic_wave.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/partition_line.xml" value="0.1785" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/drawable/separator_line.xml" value="0.1785" />
+        <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/font/acme.xml" value="0.28020833333333334" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/layout/activity_list_view.xml" value="0.25" />
         <entry key="..\:/AndroidJava/AppTongHop/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />

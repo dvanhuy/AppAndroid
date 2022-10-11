@@ -125,7 +125,7 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
-                android:text="List User"
+                android:text="Listview"
                 android:textColor="@color/black"
                 android:textSize="24sp"
                 android:textStyle="bold"

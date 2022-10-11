@@ -76,15 +76,15 @@ public class ListView extends AppCompatActivity {
         lvitem = findViewById(R.id.listviewsv);
         additem= (Button) findViewById(R.id.additem);
         arrayItem = new ArrayList<>();
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 1","Mã sinh viên: 2050531200157, Giới tính: Nam , Sở thích : game ,..."));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 2","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 3","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 4","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 5","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 6","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 7","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 8","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.khoctiengmang,"Đinh Văn Huy 9","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Uzumaki Naruto","Nhân vật chính trong bộ anime NARUTO. Lạc quan, vui vẻ và thích ăn ramen"));
+        arrayItem.add(new Item(R.drawable.saitama,"Saitama","Là một siêu anh hùng và anh dễ dàng đành bại những kẻ thù của mình chỉ bằng một cú đấm"));
+        arrayItem.add(new Item(R.drawable.kaitokid,"Kuroba Kaito","Tên trộm khét tiếng với biệt tài chuyên ăn trộm kim cương và đá quý với cái tên Kaito Kid"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 4","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 5","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 6","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 7","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 8","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 9","Mã sinh viên: 2050531200157, Giới tính: Nam"));
     }
 
     private void Xoa(final int  position){

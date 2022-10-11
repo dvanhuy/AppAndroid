@@ -30,7 +30,7 @@
                 android:layout_width="86dp"
                 android:layout_height="86dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/khoctiengmang"
+                android:src="@drawable/natutochibi"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -52,13 +52,16 @@
 
             <TextView
                 android:id="@+id/textView2"
-                android:layout_width="144dp"
+                android:layout_width="0dp"
                 android:layout_height="35dp"
                 android:layout_marginStart="70dp"
                 android:layout_marginTop="13dp"
-                android:text="Đinh Văn Huy"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="@font/architects_daughter"
+                android:text="Uzumaki Naruto"
                 android:textColor="@color/black"
-                android:textSize="24sp"
+                android:textSize="22sp"
+                app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -69,14 +72,19 @@
                 android:layout_marginStart="70dp"
                 android:layout_marginTop="50dp"
                 android:layout_marginEnd="20dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/patrick_hand"
                 android:singleLine="false"
-                android:text="Đinh Văn Huy"
+                android:text="Nhân vật chính trong bộ anime NARUTO. Lạc quan, vui vẻ và thích ăn ramen"
                 android:textColor="@color/black"
-                android:textSize="16sp"
+                android:textSize="14sp"
                 android:textStyle="italic"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.25" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 
