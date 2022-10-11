@@ -79,12 +79,11 @@ public class ListView extends AppCompatActivity {
         arrayItem.add(new Item(R.drawable.natutochibi,"Uzumaki Naruto","Nhân vật chính trong bộ anime NARUTO. Lạc quan, vui vẻ và thích ăn ramen"));
         arrayItem.add(new Item(R.drawable.saitama,"Saitama","Là một siêu anh hùng và anh dễ dàng đành bại những kẻ thù của mình chỉ bằng một cú đấm"));
         arrayItem.add(new Item(R.drawable.kaitokid,"Kuroba Kaito","Tên trộm khét tiếng với biệt tài chuyên ăn trộm kim cương và đá quý với cái tên Kaito Kid"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 4","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 5","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 6","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 7","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 8","Mã sinh viên: 2050531200157, Giới tính: Nam"));
-        arrayItem.add(new Item(R.drawable.natutochibi,"Đinh Văn Huy 9","Mã sinh viên: 2050531200157, Giới tính: Nam"));
+        arrayItem.add(new Item(R.drawable.yagami,"Light Yagami","Cậu nhặt được Death Note với khả năng cho phép người dùng nó giết bất kì ai bằng việc biết mặt và tên đối tượng"));
+        arrayItem.add(new Item(R.drawable.kirito,"Kazuto Kirigaya","Kirito là một trong 1.000 người thử nghiệm beta được chọn cho phiên bản beta của Sword Art Online"));
+        arrayItem.add(new Item(R.drawable.imgdoraemon,"Doraemon","Cậu là chú mèo robot của tương lai do xưởng Matsushiba sản xuất nhằm mục đích chăm sóc trẻ nhỏ."));
+        arrayItem.add(new Item(R.drawable.imggoku,"Son Goku","Son Goku bị mất trí nhớ khi đến trái đất và sau đó trở thành người bảo vệ vĩ đại của Trái Đất"));
+        arrayItem.add(new Item(R.drawable.imgmikasa,"Mikasa Ackerman","Cô gái gốc Ackerman này có năng lực chiến đấu can đảm và mạnh mẽ"));
     }
 
     private void Xoa(final int  position){
